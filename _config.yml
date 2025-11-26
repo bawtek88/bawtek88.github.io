@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------
 # Site Settings
 # ---------------------------------------------------------------
-title: My Project Title           # Appears in the browser tab and page header
+title: Bawtek88's homepage           # Appears in the browser tab and page header
 description: >                    # The ">" allows for a multi-line string
   This is a short description of my project. 
   It often appears in search engine results.
@@ -15,7 +15,7 @@ baseurl: "/repository-name"       # The name of your repository (include the lea
 # ---------------------------------------------------------------
 # Pick ONE theme. "minima" is the default standard theme.
 # You can see other options here: https://pages.github.com/themes/
-theme: minima
+theme: jekyll-theme-minimal
 
 # ---------------------------------------------------------------
 # Build Settings
