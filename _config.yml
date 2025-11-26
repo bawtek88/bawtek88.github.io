@@ -7,8 +7,8 @@ description: >                    # The ">" allows for a multi-line string
   It often appears in search engine results.
 author: Your Name or Username
 email: your-email@example.com     # Optional
-url: "https://username.github.io" # Your main GitHub Pages URL
-baseurl: "/repository-name"       # The name of your repository (include the leading slash)
+url: "https://bawtek88.github.io/" # Your main GitHub Pages URL
+baseurl: "/bawtek88.github.io"       # The name of your repository (include the leading slash)
 
 # ---------------------------------------------------------------
 # Theme Settings
